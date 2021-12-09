@@ -1,0 +1,16 @@
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\bin\Debug\net5.0\Lesson2.exe
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\bin\Debug\net5.0\Lesson2.deps.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\bin\Debug\net5.0\Lesson2.runtimeconfig.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\bin\Debug\net5.0\Lesson2.runtimeconfig.dev.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\bin\Debug\net5.0\Lesson2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\bin\Debug\net5.0\ref\Lesson2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\bin\Debug\net5.0\Lesson2.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.csproj.AssemblyReference.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.AssemblyInfoInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.AssemblyInfo.cs
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\ref\Lesson2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\Lesson2\Lesson2\obj\Debug\net5.0\Lesson2.genruntimeconfig.cache
