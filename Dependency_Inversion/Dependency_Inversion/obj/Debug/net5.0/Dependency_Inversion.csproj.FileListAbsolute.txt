@@ -1,0 +1,16 @@
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.exe
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.deps.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.runtimeconfig.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.runtimeconfig.dev.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\bin\Debug\net5.0\ref\Dependency_Inversion.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.csproj.AssemblyReference.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.AssemblyInfo.cs
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\ref\Dependency_Inversion.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Dependency_Inversion\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.genruntimeconfig.cache
