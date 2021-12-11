@@ -30,7 +30,7 @@ namespace Lesson2
 
     public class ProductFilter
     {
-        public IEnumerable<Product> FilterBySize(IEnumerable<Product> products, Size size)
+        public IEnumerable<Product> FilterBySize(IEnumerable<Product> products, Size size) // interface di sistema
         {
             foreach (var p in products)
             {
@@ -40,7 +40,7 @@ namespace Lesson2
                 }
             }
         } // filtra per stazza
-        public IEnumerable<Product> FilterByColor(IEnumerable<Product> products, Color color)
+        public IEnumerable<Product> FilterByColor(IEnumerable<Product> products, Color color) // interface di sistema
         {
             foreach (var p in products)
             {
