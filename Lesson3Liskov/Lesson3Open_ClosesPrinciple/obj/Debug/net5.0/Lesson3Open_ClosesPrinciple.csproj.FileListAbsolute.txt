@@ -1,0 +1,16 @@
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\bin\Debug\net5.0\Lesson3Open_ClosesPrinciple.exe
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\bin\Debug\net5.0\Lesson3Open_ClosesPrinciple.deps.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\bin\Debug\net5.0\Lesson3Open_ClosesPrinciple.runtimeconfig.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\bin\Debug\net5.0\Lesson3Open_ClosesPrinciple.runtimeconfig.dev.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\bin\Debug\net5.0\Lesson3Open_ClosesPrinciple.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\bin\Debug\net5.0\ref\Lesson3Open_ClosesPrinciple.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\bin\Debug\net5.0\Lesson3Open_ClosesPrinciple.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.csproj.AssemblyReference.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.AssemblyInfoInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.AssemblyInfo.cs
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\ref\Lesson3Open_ClosesPrinciple.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Lesson3Liskov\Lesson3Open_ClosesPrinciple\obj\Debug\net5.0\Lesson3Open_ClosesPrinciple.genruntimeconfig.cache
