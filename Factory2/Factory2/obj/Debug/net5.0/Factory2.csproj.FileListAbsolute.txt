@@ -1,0 +1,16 @@
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\bin\Debug\net5.0\Factory2.exe
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\bin\Debug\net5.0\Factory2.deps.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\bin\Debug\net5.0\Factory2.runtimeconfig.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\bin\Debug\net5.0\Factory2.runtimeconfig.dev.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\bin\Debug\net5.0\Factory2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\bin\Debug\net5.0\ref\Factory2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\bin\Debug\net5.0\Factory2.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.csproj.AssemblyReference.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.AssemblyInfoInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.AssemblyInfo.cs
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.csproj.CoreCompileInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\ref\Factory2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Factory2\Factory2\obj\Debug\net5.0\Factory2.genruntimeconfig.cache
