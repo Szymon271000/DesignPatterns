@@ -1,104 +1,125 @@
 ﻿using System;
+using static System.Console;
 
-namespace Prototype2
+namespace DotNetDesignPatternDemos.Creational.Prototype.Inheritance
 {
-    class Program
+    public interface IDeepCopyable<T> where T : new()
     {
-        public interface IDeepCopyable<T>
+        void CopyTo(T target);
+
+        public T DeepCopy()
         {
-            T DeepCopy();
+            T t = new T();
+            CopyTo(t);
+            return t;
         }
-        public class Address: IDeepCopyable<Address>
+    }
+
+    public class Address : IDeepCopyable<Address>
+    {
+        public string StreetName;
+        public int HouseNumber;
+
+        public Address(string streetName, int houseNumber)
         {
-            public string StreetName;
-            public int HouseNumer;
-
-            public Address()
-            {
-
-            }
-            public Address(string streetName, int houseNumer)
-            {
-                StreetName = streetName;
-                HouseNumer = houseNumer;
-            }
-
-            public Address DeepCopy()
-            {
-                return (Address)MemberwiseClone();
-            }
-
-            public override string ToString()
-            {
-                return $"{nameof(StreetName)}: {StreetName}, {nameof(HouseNumer)}: {HouseNumer}";
-            }
+            StreetName = streetName;
+            HouseNumber = houseNumber;
         }
 
-        public class Person: IDeepCopyable<Person>
+        public Address()
         {
-            public string[] Names;
-            public Address Address;
 
-            public Person()
-            {
-
-            }
-            public Person(string[] names, Address address)
-            {
-                Names = names;
-                Address = address;
-            }
-
-            public Person DeepCopy()
-            {
-                return new Person((string[])Names.Clone(), Address.DeepCopy());
-            }
-
-            public override string ToString()
-            {
-                return $"{nameof(Names)}: {string.Join(",", Names)}, {nameof(Address)}: {Address}";
-            }
         }
 
-        public class Employee: Person, IDeepCopyable<Employee>
+        public override string ToString()
         {
-            public int Salary;
-
-            public Employee()
-            {
-
-            }
-            public Employee(string[] names, Address address, int salary): base(names, address)
-            {
-                Salary = salary;
-            }
-
-            public override string ToString()
-            {
-                return $"{base.ToString()}, {nameof(Address)}: {Address}, {nameof(Salary)}: {Salary}";
-            }
-
-            Employee IDeepCopyable<Employee>.DeepCopy()
-            {
-                return new Employee((string[])Names.Clone(), Address.DeepCopy(), Salary);
-            }
+            return $"{nameof(StreetName)}: {StreetName}, {nameof(HouseNumber)}: {HouseNumber}";
         }
-        static void Main(string[] args)
+
+        public void CopyTo(Address target)
         {
-            var John = new Employee();
-            John.Names = new[] { "John", "Doe" };
-            John.Address = new Address
-            {
-                HouseNumer = 123,
-                StreetName = "London Road"
-            };
-            John.Salary = 321000;
-            var copy = John.DeepCopy();
+            target.StreetName = StreetName;
+            target.HouseNumber = HouseNumber;
+        }
+    }
+
+
+
+    public class Person : IDeepCopyable<Person>
+    {
+        public string[] Names;
+        public Address Address;
+
+        public Person()
+        {
+
+        }
+
+        public Person(string[] names, Address address)
+        {
+            Names = names;
+            Address = address;
+        }
+
+        public override string ToString()
+        {
+            return $"{nameof(Names)}: {string.Join(",", Names)}, {nameof(Address)}: {Address}";
+        }
+
+        public virtual void CopyTo(Person target)
+        {
+            target.Names = (string[])Names.Clone();
+            target.Address = Address.DeepCopy();
+        }
+    }
+
+    public class Employee : Person, IDeepCopyable<Employee>
+    {
+        public int Salary;
+
+        public void CopyTo(Employee target)
+        {
+            base.CopyTo(target);
+            target.Salary = Salary;
+        }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, {nameof(Salary)}: {Salary}";
+        }
+    }
+
+    public static class DeepCopyExtensions
+    {
+        public static T DeepCopy<T>(this IDeepCopyable<T> item)
+          where T : new()
+        {
+            return item.DeepCopy();
+        }
+
+        public static T DeepCopy<T>(this T person)
+          where T : Person, new()
+        {
+            return ((IDeepCopyable<T>)person).DeepCopy();
+        }
+    }
+
+    public static class Demo
+    {
+        static void Main()
+        {
+            var john = new Employee();
+            john.Names = new[] { "John", "Doe" };
+            john.Address = new Address { HouseNumber = 123, StreetName = "London Road" };
+            john.Salary = 321000;
+            var copy = john.DeepCopy();
 
             copy.Names[1] = "Smith";
-            copy.Address.HouseNumer++;
-            
+            copy.Address.HouseNumber++;
+            copy.Salary = 123000;
 
+            Console.WriteLine(john);
+            Console.WriteLine(copy);
         }
     }
 }
