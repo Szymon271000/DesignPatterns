@@ -1,0 +1,16 @@
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.exe
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.deps.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.runtimeconfig.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.runtimeconfig.dev.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\bin\Debug\net5.0\ref\Prototype2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.csproj.AssemblyReference.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.AssemblyInfoInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.AssemblyInfo.cs
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.csproj.CoreCompileInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\ref\Prototype2.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.genruntimeconfig.cache
