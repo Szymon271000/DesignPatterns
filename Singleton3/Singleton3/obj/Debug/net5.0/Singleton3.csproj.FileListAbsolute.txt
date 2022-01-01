@@ -1,0 +1,16 @@
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\bin\Debug\net5.0\Singleton3.exe
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\bin\Debug\net5.0\Singleton3.deps.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\bin\Debug\net5.0\Singleton3.runtimeconfig.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\bin\Debug\net5.0\Singleton3.runtimeconfig.dev.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\bin\Debug\net5.0\Singleton3.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\bin\Debug\net5.0\ref\Singleton3.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\bin\Debug\net5.0\Singleton3.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.csproj.AssemblyReference.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.AssemblyInfoInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.AssemblyInfo.cs
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.csproj.CoreCompileInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\ref\Singleton3.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\Singleton3\Singleton3\obj\Debug\net5.0\Singleton3.genruntimeconfig.cache
