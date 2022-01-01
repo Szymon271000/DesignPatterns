@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UQUDchFT5CC2lClyuED4G6Ir9ZgLofsGjejtoHwy0GsvPTPj17B/Af0TYaR5veSdp0uAFzIyb/uS16pp8JzMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huber\\OneDrive\\Desktop\\DesignPatternsCourse\\DesignPatterns\\Adapter3\\Adapter3\\Adapter3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huber\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\huber\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
