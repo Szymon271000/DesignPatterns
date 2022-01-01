@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monostate", "Monostate\Monostate.csproj", "{3434DE03-5A8C-4E6C-A1EA-7E52A74D31F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3434DE03-5A8C-4E6C-A1EA-7E52A74D31F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3434DE03-5A8C-4E6C-A1EA-7E52A74D31F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3434DE03-5A8C-4E6C-A1EA-7E52A74D31F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3434DE03-5A8C-4E6C-A1EA-7E52A74D31F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F6EBE40-4F1F-42B2-B430-A4E422BA6D69}
+	EndGlobalSection
+EndGlobal
