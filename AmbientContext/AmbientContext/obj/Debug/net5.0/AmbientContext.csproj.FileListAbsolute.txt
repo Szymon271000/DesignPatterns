@@ -1,0 +1,16 @@
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\bin\Debug\net5.0\AmbientContext.exe
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\bin\Debug\net5.0\AmbientContext.deps.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\bin\Debug\net5.0\AmbientContext.runtimeconfig.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\bin\Debug\net5.0\AmbientContext.runtimeconfig.dev.json
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\bin\Debug\net5.0\AmbientContext.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\bin\Debug\net5.0\ref\AmbientContext.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\bin\Debug\net5.0\AmbientContext.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.csproj.AssemblyReference.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.AssemblyInfoInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.AssemblyInfo.cs
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.csproj.CoreCompileInputs.cache
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\ref\AmbientContext.dll
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.pdb
+C:\Users\huber\OneDrive\Desktop\DesignPatternsCourse\DesignPatterns\AmbientContext\AmbientContext\obj\Debug\net5.0\AmbientContext.genruntimeconfig.cache
