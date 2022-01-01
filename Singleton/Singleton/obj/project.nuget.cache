@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NoHheHmp/0tm47gvR1GPhE86hNMIBB8UfmwZdG7J9R9GOlS26e793Nh/yd7zFuPdBXPX3JmOEF7wmw8G2uS1tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huber\\OneDrive\\Desktop\\DesignPatternsCourse\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\huber\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\huber\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
